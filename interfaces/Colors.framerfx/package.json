@@ -1,0 +1,17 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "ef749823-eff5-4484-bd06-432f337ab850"
+	},
+	"author": "Linc Mitch"
+}
