@@ -14,4 +14,7 @@
 		"id": "b18abae1-b23e-4534-afdc-7af53b07776b"
 	},
 	"author": "Linc Mitch"
+	"dependencies": {
+		"rmwc": "^4.0.1"
+	}
 }
