@@ -8,7 +8,7 @@ const style: React.CSSProperties = {
     justifyContent: "center",
     textAlign: "center",
     color: "#8855FF",
-    background: "rgba(136, 85, 255, 0.1)",
+    background: "lime",
     overflow: "hidden",
 };
 
