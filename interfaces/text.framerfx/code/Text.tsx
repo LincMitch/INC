@@ -1,5 +1,7 @@
 import * as React from "react";
 import { PropertyControls, ControlType } from "framer";
+import '@material/typography/dist/mdc.typography.css';
+import { Typography } from '@rmwc/typography';
 
 const style: React.CSSProperties = {
     height: "100%",
@@ -30,6 +32,6 @@ export class Text extends React.Component<Props> {
     }
 
     render() {
-    return <div style={style}>{this.props.text}</div>;
+    return <div style={style}><Typography use="headline1">{this.props.text}</Typography></div>;
     }
 }
