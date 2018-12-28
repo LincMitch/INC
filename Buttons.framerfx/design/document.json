@@ -45,14 +45,14 @@
             "borderStyle" : "solid",
             "borderTop" : 1,
             "borderWidth" : 1,
-            "bottom" : null,
+            "bottom" : 233,
             "boxShadows" : [
 
             ],
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.38400000000000001,
-            "centerAnchorY" : 0.16566716641679161,
+            "centerAnchorY" : 0.6064467766116941,
             "children" : [
 
             ],
@@ -95,7 +95,7 @@
             "isTarget" : false,
             "left" : 64,
             "locked" : false,
-            "name" : null,
+            "name" : "Button pink",
             "navigationTarget" : null,
             "navigationTransition" : "push",
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
@@ -118,7 +118,7 @@
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "top" : 81,
+            "top" : null,
             "visible" : true,
             "width" : 160,
             "widthType" : 0
@@ -190,7 +190,7 @@
             "isTarget" : false,
             "left" : 64,
             "locked" : false,
-            "name" : null,
+            "name" : "Button blue",
             "navigationTarget" : null,
             "navigationTransition" : "push",
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
@@ -242,7 +242,7 @@
             "brightness" : 100,
             "brightnessEnabled" : 0,
             "centerAnchorX" : 0.44933333333333331,
-            "centerAnchorY" : 0.45652173913043476,
+            "centerAnchorY" : 0.2646176911544228,
             "children" : [
 
             ],
@@ -285,7 +285,7 @@
             "isTarget" : false,
             "left" : 64,
             "locked" : false,
-            "name" : null,
+            "name" : "Button 1",
             "navigationTarget" : null,
             "navigationTransition" : "push",
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
@@ -308,7 +308,7 @@
             "saturateEnabled" : 0,
             "sepia" : 0,
             "sepiaEnabled" : 0,
-            "top" : 266,
+            "top" : 138,
             "visible" : true,
             "width" : 209,
             "widthType" : 0
