@@ -21,7 +21,7 @@ export class Text extends React.Component<Props> {
 
     // Set default properties
     static defaultProps = {
-    text: "TEXT"
+    text: "TEXT edited via git hub"
     }
 
     // Items shown in property panel
